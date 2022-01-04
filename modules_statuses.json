@@ -1,0 +1,7 @@
+{
+    "Common": true,
+    "Lesson": true,
+    "Student": true,
+    "Teacher": true,
+    "User": true
+}
